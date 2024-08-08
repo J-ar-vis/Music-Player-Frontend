@@ -1,1 +1,1 @@
-# Spotify-replica
+# Music-Player-Frontend
